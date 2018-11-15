@@ -1,0 +1,14 @@
+header {
+  display: flex;
+}
+
+#nav-bar {
+  position: fixed;
+  float: right;
+}
+
+@media (min-height: 350px) { 
+  body {
+    background-color: grey;
+  }
+}
